@@ -36,7 +36,7 @@ By leveraging the individual strengths of these architectures, the proposed mode
 
 ### 📊 Results
 
-* **Testing Accuracy:** 96.98%
+* **Testing Accuracy:** 98.98%
 * **K-Fold Cross-Validation Accuracy (k = 5):** 97.49%
 * **ROC-AUC Score:** 0.9934
 * **PR-AUC Score:** 0.9950
